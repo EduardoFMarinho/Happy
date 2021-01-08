@@ -18,7 +18,7 @@ module.exports = [
   },
   {
     id: 2,
-    lat: "-27.222633",
+    lat: "-27.21200",
     lng: "-49.6455874",
     name: "Lar das meninos",
     description:

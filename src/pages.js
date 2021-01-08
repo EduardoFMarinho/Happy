@@ -1,4 +1,4 @@
-module.exports = require('./database/fakedata.js');
+const orphanages = require('./database/fakedata.js');
 
     module.exports = {
 
