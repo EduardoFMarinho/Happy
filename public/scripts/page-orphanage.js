@@ -11,7 +11,7 @@ const lat = document.querySelector('span[data-lat]').dataset.lat
 const lng = document.querySelector('span[data-lng]').dataset.lng
 
 // create map
-var map = L.map('mapid', options).setView([lat, lng], 15)
+const map = L.map('mapid', options).setView([lat, lng], 15)
 
 
 // create and add titleLayer
