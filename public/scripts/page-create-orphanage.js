@@ -89,3 +89,11 @@ function toggleSelect(event) {
     input.value = button.database.value
 
 }
+
+function validate(event) {
+    const needsLatAndLng = false;
+    if(needsLatAndLng) {
+        event.preventDefault()
+        alert('Selecione um pponto no mapa')
+    }
+}
