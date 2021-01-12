@@ -24,15 +24,15 @@ $ npm start
 
 This project was developed with the following technologies:
 
-- [Node.js][nodejs]
-- [Git][git]
-- [JavaScript][javascript]
-- [HTML][html]
-- [CSS][css]
+- Node.JS
+- Git
+- JavaScript
+- HTML
+- CSS
 <!-- - [Expo][expo] -->
 
 # Features (API/Library)
 
 - WhatsApp's API for the contact number. Meaning that people can text you via WhatsApp right away just by clicking the contact button.
-- Leaflet (JavaScript Library) is currently being used for the map, where orphanages will be listed. Later on, it will be able to get your location.
+- Leaflet (JavaScript Library) is currently being used for the map, where orphanages will be listed. 
 
