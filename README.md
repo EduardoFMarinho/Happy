@@ -5,7 +5,7 @@ For this project, I'm currently using HTML, CSS and JavaScript.
 
 # Getting Started
 
-In order to open and edit this project, you need to have a Code Editor, Node.JS and Git installed in your PC. Once that is done, download the file and open it in your editor. If you have Visual Code Studio, you can right click the file and select the "Open with Code" option.
+In order to open and edit this project, you need to have a Code Editor, Node.JS (version used for the project was LTS 12.14.0) and Git installed in your PC. Once that is done, download the file and open it in your editor. If you have Visual Code Studio, you can right click the file and select the "Open with Code" option.
 
 # Install Front-end
 
