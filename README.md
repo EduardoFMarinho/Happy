@@ -42,11 +42,11 @@ This project was developed with the following technologies:
 
 ![Alt text](https://i.imgur.com/eh8hYIx.png)
 
-![Alt text](https://i.imgur.com/DVAxX42.png)
+![Alt text](https://i.imgur.com/3VpDvhE.png)
 
-![Alt text](https://i.imgur.com/JhfsIWS.png)
+![Alt text](https://i.imgur.com/jQ59a4g.png)
 
-![Alt text](https://i.imgur.com/toSeSYp.png)
+![Alt text](https://i.imgur.com/yQ6xUZl.png)
 
 
 
