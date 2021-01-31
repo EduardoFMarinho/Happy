@@ -36,3 +36,17 @@ This project was developed with the following technologies:
 - WhatsApp's API for the contact number. Meaning that people can text you via WhatsApp right away just by clicking the contact button.
 - Leaflet (JavaScript Library) is currently being used for the map, where orphanages will be listed. 
 
+# Gallery
+
+![Alt text](https://i.imgur.com/lQKe84W.png)
+
+![Alt text](https://i.imgur.com/eh8hYIx.png)
+
+![Alt text](https://i.imgur.com/DVAxX42.png)
+
+![Alt text](https://i.imgur.com/JhfsIWS.png)
+
+![Alt text](https://i.imgur.com/toSeSYp.png)
+
+
+
